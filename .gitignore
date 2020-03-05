@@ -5,3 +5,4 @@ docker/envoy
 *.test
 /artifacts
 **/plugin.wasm
+.cache
